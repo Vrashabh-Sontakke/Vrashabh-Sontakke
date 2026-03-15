@@ -21,7 +21,7 @@
 - ⚙️ Backend Engineer building production systems with Go (Golang) & Rust
 - ☸️ CKA Certified Kubernetes Administrator — deploying and orchestrating production containerized workloads with Docker & Kubernetes
 - 🚀 DevOps experience shipping MVPs at startups
-- ❄️ Nix/NixOS for declarative, reproducible development environments and system configuration
+- ❄️ I use Nix/NixOS for declarative, reproducible development environments and system configuration
 
 <h1 align = "center">
 <div align="center">
